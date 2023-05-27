@@ -1,4 +1,4 @@
-About Me
+
 Hello, I am an aspiring AI and data analytics programmer, eager to make a mark in the world of artificial intelligence and data-driven insights. Recently, I successfully completed an intensive AI bootcamp, which has equipped me with a solid foundation in AI concepts, algorithms, and programming techniques.
 
 With a deep fascination for the potential of AI and its applications in various industries, I am driven to explore and harness its power to solve complex problems. My passion lies in utilizing data to uncover meaningful patterns, extract insights, and make informed decisions.
